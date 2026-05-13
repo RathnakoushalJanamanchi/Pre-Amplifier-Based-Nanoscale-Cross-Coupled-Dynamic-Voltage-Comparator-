@@ -232,14 +232,13 @@ When Vinp > Vinn:
 | Figure | Description | File |
 |--------|-------------|------|
 | Fig. 1 | Circuit diagram of the cross-coupled comparator | `figures/fig1_circuit_diagram.png` |
-| Fig. 2 | Power and delay at ΔVin = 0.1V | `figures/fig2_dvin_0.1V.png` |
-| Fig. 3 | Power and delay at ΔVin = 0.2V | `figures/fig3_dvin_0.2V.png` |
-| Fig. 4 | Power and delay at ΔVin = 0.3V | `figures/fig4_dvin_0.3V.png` |
-| Fig. 5 | Power and delay at ΔVin = 0.4V | `figures/fig5_dvin_0.4V.png` |
-| Fig. 6 | Power and delay at ΔVin = 0.5V | `figures/fig6_dvin_0.5V.png` |
-| Fig. 7 | Power and delay at ΔVin = 0.6V | `figures/fig7_dvin_0.6V.png` |
-| Fig. 8 | Delay and power vs. temperature at different VDD and ΔVin | `figures/fig8_temperature_effects.png` |
-
+| Fig. 2 | Power and delay at ΔVin = 0.1V | `1.png` |
+| Fig. 3 | Power and delay at ΔVin = 0.2V | `2.png` |
+| Fig. 4 | Power and delay at ΔVin = 0.3V | `3.png` |
+| Fig. 5 | Power and delay at ΔVin = 0.4V | `4.png` |
+| Fig. 6 | Power and delay at ΔVin = 0.5V | `5.png` |
+| Fig. 7 | Power and delay at ΔVin = 0.6V | `6.png` |
+| Fig. 8 | Delay and power vs. temperature at different VDD and ΔVin | `7.png` |
 To display figures inline, add them like this after uploading to your repo:
 
 ```markdown
