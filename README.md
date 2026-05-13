@@ -239,7 +239,6 @@ When Vinp > Vinn:
 | Fig. 6 | Power and delay at ΔVin = 0.5V | `5.png` |
 | Fig. 7 | Power and delay at ΔVin = 0.6V | `6.png` |
 | Fig. 8 | Delay and power vs. temperature at different VDD and ΔVin | `7.png` |
-```
 
 ---
 
